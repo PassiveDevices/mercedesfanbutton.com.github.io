@@ -152,9 +152,9 @@
         <div class="product-card">
             <!-- Image carousel with two images -->
             <div class="image-carousel">
-                <img src="C:\Users\15103\Downloads\FAN Button no background.jpg" alt="Mercedes w208 CLK FAN Button" class="carousel-image active"> <!-- First image -->
-                <img src="C:\Users\15103\Downloads\Fan button on side v3a.png" alt="Another FAN Button" class="carousel-image"> <!-- Second image -->
-                <img src="C:\Users\15103\Downloads\Fan button on side2 v3a.png" alt="Another FAN Button" class="carousel-image"> <!-- Third image -->
+                <img src="FAN Button no background.jpg" alt="Mercedes w208 CLK FAN Button" class="carousel-image active"> <!-- First image -->
+                <img src="Fan button on side v3a.png" alt="Another FAN Button" class="carousel-image"> <!-- Second image -->
+                <img src="Fan button on side2 v3a.png" alt="Another FAN Button" class="carousel-image"> <!-- Third image -->
 
             </div>
 
