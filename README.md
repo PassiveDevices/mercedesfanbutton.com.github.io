@@ -164,7 +164,7 @@
             <!-- Call-to-action buttons for Amazon and eBay -->
             <div class="cta-buttons">
                 <!-- Amazon CTA button -->
-                <a href="https://www.amazon.com/dp/B0B69R4PRG?ref=myi_title_dp&th=1" class="amazon-button">Buy on Amazon</a> <!-- Amazon product link -->
+                <a href="[https://www.amazon.com/dp/B0B69R4PRG?ref=myi_title_dp&th=1](https://amzn.to/4b1HIqh)" class="amazon-button">Buy on Amazon</a> <!-- Amazon product link -->
                 <!-- eBay CTA button -->
                 <a href="https://www.ebay.com/itm/224865223526" class="ebay-button">Buy on eBay</a> <!-- eBay product link -->
             </div>
